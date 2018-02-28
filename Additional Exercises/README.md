@@ -1,0 +1,1 @@
+This came up on hackernews. Getting familiar with Numpy can be half the battle when it comes to python, so it's well worth investing the time - [101 Numpy Exercises](https://www.machinelearningplus.com/101-numpy-exercises-python/)
